@@ -22,7 +22,7 @@ The Garage Door Controller project is designed to showcase the capabilities of t
 ## Features
 
 - Simulated garage door operation.
-- Code written in C for 8051 microcontroller.
+- Code written in Embedded C for 8051 microcontroller.
 - Proteus simulation file provided.
 
 ## Prerequisites
