@@ -1,0 +1,2 @@
+create table STOCK(DATE datetime,PRODUCT_ID int primary key,PURCHASE_PRODUCT varchar(20)unique,DISTRIBUTER_NAME varchar(20),MANUFACTURING_DATE datetime,EXPIRIY_DATE datetime,COST_PRICE varchar(20),SELLING_PRICE varchar(20),QUANTITY varchar(30))
+select * from STOCK
