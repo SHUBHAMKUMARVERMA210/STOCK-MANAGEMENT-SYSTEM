@@ -43,12 +43,12 @@ To run the project locally, follow these steps:
 
 **Set Up the Database:**
 
-    Use the SQL Server Management Studio to execute the provided SQL scripts to create the necessary database and tables.
+Use the SQL Server Management Studio to execute the provided SQL scripts to create the necessary database and tables.
 
 **Configure Connection Strings:**
 
-    Update the connection strings in the project to match your local database configuration.
+Update the connection strings in the project to match your local database configuration.
 
 **Run the Application:**
 
-    Open the project in Visual Studio (VB.NET 2008) and run the application.
+Open the project in Visual Studio (VB.NET 2008) and run the application.
